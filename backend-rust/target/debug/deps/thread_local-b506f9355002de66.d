@@ -1,0 +1,10 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend-rust\target\debug\deps\thread_local-b506f9355002de66.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\thread_id.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\unreachable.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\cached.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend-rust\target\debug\deps\libthread_local-b506f9355002de66.rlib: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\thread_id.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\unreachable.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\cached.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend-rust\target\debug\deps\thread_local-b506f9355002de66.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\thread_id.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\unreachable.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\cached.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\thread_id.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\unreachable.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thread_local-1.0.1\src\cached.rs:

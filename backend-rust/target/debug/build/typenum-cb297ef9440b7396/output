@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend-rust\target\debug\build\typenum-cb297ef9440b7396\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend-rust\target\debug\build\typenum-cb297ef9440b7396\out\op.rs

@@ -1,0 +1,11 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend-rust\target\debug\deps\brotli2-f6560f6bb6a3ddbc.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\raw.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\bufread.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\read.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\write.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend-rust\target\debug\deps\libbrotli2-f6560f6bb6a3ddbc.rlib: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\raw.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\bufread.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\read.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\write.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend-rust\target\debug\deps\brotli2-f6560f6bb6a3ddbc.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\raw.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\bufread.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\read.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\write.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\raw.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\bufread.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\read.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\brotli2-0.3.2\src\write.rs:

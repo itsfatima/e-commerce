@@ -1,0 +1,10 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend\target\debug\deps\serde_test-7a92a7c78d71b722.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\assert.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\ser.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\de.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\token.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\error.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend\target\debug\deps\serde_test-7a92a7c78d71b722.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\assert.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\ser.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\de.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\token.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\error.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\assert.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\ser.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\de.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\token.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_test-0.8.23\src\error.rs:

@@ -1,0 +1,11 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend\target\debug\deps\sha2-5f7e28e2589a7087.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\consts.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha512.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256\soft.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256\x86.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha512\soft.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend\target\debug\deps\sha2-5f7e28e2589a7087.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\consts.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha512.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256\soft.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256\x86.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha512\soft.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\consts.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha512.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256\soft.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha256\x86.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.9.2\src\sha512\soft.rs:

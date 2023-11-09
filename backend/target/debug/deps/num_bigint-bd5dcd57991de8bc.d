@@ -1,0 +1,10 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend\target\debug\deps\num_bigint-bd5dcd57991de8bc.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\macros.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\bigint.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\biguint.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\algorithms.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\monty.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\e-commerce\backend\target\debug\deps\num_bigint-bd5dcd57991de8bc.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\macros.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\bigint.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\biguint.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\algorithms.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\monty.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\macros.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\bigint.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\biguint.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\algorithms.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-bigint-0.2.6\src\monty.rs:

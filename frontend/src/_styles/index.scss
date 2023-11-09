@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Menlo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Menlo'), url('../_resources/fonts/Menlo-Regular.woff') format('woff');
+}
+
+// @import "~normalize.css";
+@import "~bootstrap/scss/bootstrap-grid";
+@import "homePage";
+@import "navbar";
+@import "loginPage";
+@import "productItem";
+@import "categoriesPage";

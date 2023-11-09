@@ -1,0 +1,10 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend-rust\target\debug\deps\ipconfig-fe495d32e5186b65.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\adapter.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\computer.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\error.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend-rust\target\debug\deps\ipconfig-fe495d32e5186b65.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\adapter.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\computer.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\error.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\adapter.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\mod.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\win64.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\computer.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\error.rs:

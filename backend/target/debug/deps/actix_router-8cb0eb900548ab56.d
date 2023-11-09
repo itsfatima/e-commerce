@@ -1,0 +1,10 @@
+C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend\target\debug\deps\actix_router-8cb0eb900548ab56.rmeta: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src/lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\de.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\path.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\resource.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\router.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\url.rs
+
+C:\Users\FAJAR.PK\bin\rust-in\nope\yup\backend\target\debug\deps\actix_router-8cb0eb900548ab56.d: C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src/lib.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\de.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\path.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\resource.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\router.rs C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\url.rs
+
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src/lib.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\de.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\path.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\resource.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\router.rs:
+C:\Users\FAJAR.PK\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-router-0.2.6\src\url.rs:
