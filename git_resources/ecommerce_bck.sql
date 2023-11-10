@@ -3,9 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Czas generowania: 03 Lut 2021, 16:30
--- Wersja serwera: 8.0.21
--- Wersja PHP: 7.4.14
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
